@@ -1,3 +1,5 @@
+The programming language is shown as 'C++', but it is correctly 'Arduino'. Sorry for the inconvenience.
+
 Name of equipment used
 
 ・Microcontroller (Seeeduino V4.2 (ATMega328P))
